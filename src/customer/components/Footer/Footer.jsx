@@ -3,7 +3,7 @@ import { Button, Grid, Typography, Link } from "@mui/material"; // Correct impor
 export const Footer = () => {
   return (
     <Grid
-      container
+      container className="mt-10"
       sx={{ bgcolor: "black", color: "white" , fontSize:"13px", py: 3, textAlign: "center" }}
     >
       <Grid item xs={12} sm={6} md={3}>

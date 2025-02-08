@@ -6,7 +6,7 @@ export const HomeSectionCard = ({ currData }) => {
   return (
     <div
       className="cursor-pointer flex flex-col items-center 
-        bg-white rounded-lg shadow-lg overflow-hidden h-[21rem] w-[15] mx-3
+        bg-white rounded-lg shadow-lg overflow-hidden h-[21rem] w-[14rem] mx-3
          border border-black"
     >
       <div className="h-[13rem] w-[10rem]">
